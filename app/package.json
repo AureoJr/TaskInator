@@ -11,5 +11,11 @@
     "vuex": "^2.1.1"
   },
   "devDependencies": {},
-  "author": "Aureo Júnior <aureojr1@gmail.com>"
+  "author": "Aureo Júnior <aureojr1@gmail.com>",
+  "contributors": [
+      {
+        "name" : " Juliano Grams",
+        "url" : "https://github.com/julianograms"
+      }
+  ]
 }
